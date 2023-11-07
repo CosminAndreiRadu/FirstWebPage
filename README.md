@@ -1,6 +1,7 @@
-Proiect Tehnici Web - copie minimala a siteului stacs.ro;
+# My First WebSite 
 
-css,js,html;
+Technologies used: html, css, js;
 
+HomePage -> Incercare.html
 
-Home-Page -> Incercare.html
+This website is a minimalist copy of the Stacs.ro website.
